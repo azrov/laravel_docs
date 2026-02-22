@@ -58,4 +58,3 @@ Ayrıca, bu projeye katkıda bulunacak, hataları düzeltecek veya yeni bölüml
 Bu proje, orijinal Laravel dokümantasyonu ile aynı lisans koşullarına tabidir. (Lütfen orijinal lisans türünü buraya ekleyin, örn: MIT). Ticari veya ticari olmayan her türlü kullanım ve dağıtıma açıktır.
 
 **Not:** Bu dokümantasyon, Laravel'in resmi sitesindeki (https://laravel.com) içeriklerin Türkçe'ye çevrilmiş halidir. Güncellemeler ve en doğru bilgi için lütfen orijinal kaynağı da kontrol ediniz.
-```
