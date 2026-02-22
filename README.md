@@ -8,19 +8,19 @@ Bu proje, Laravel 12'nin resmi İngilizce dokümantasyonunun (https://laravel.co
 
 Dokümantasyon aşağıdaki ana başlıklar altında toplanmıştır. Bu klasör yapısı, orijinal Laravel dokümantasyonunun mantıksal akışını takip eder.
 
-### 01_Getting Started (Başlarken)
-### 02_Architecture Concepts (Mimari Kavramlar)
-### 03_The Basics (Temel Bilgiler)
-### 04_Digging Deeper (Derinlemesine İnceleme)
-### 05_Security (Güvenlik)
-### 06_Database (Veritabanı)
+### Getting Started (Başlarken)
+### rchitecture Concepts (Mimari Kavramlar)
+### The Basics (Temel Bilgiler)
+### Digging Deeper (Derinlemesine İnceleme)
+### Security (Güvenlik)
+### Database (Veritabanı)
 
 
 ## 🚀 Nasıl Kullanılır?
 
 1.  Bu depoyu (repository) bilgisayarınıza klonlayın:
     ```bash
-    git clone https://github.com/[kullanici-adiniz]/laravel-12-docs-tr.git
+    git clone https://github.com/azrov/laravel_docs.git
     ```
 2.  İlgilendiğiniz konunun dosyasını herhangi bir metin düzenleyicisi veya Markdown okuyucusu ile açarak okuyabilirsiniz.
 3.  Dosyalar, orijinal Laravel dokümantasyonunun konu başlıklarına göre klasörlere ayrılmıştır.
@@ -56,5 +56,7 @@ Ayrıca, bu projeye katkıda bulunacak, hataları düzeltecek veya yeni bölüml
 ## 📄 Lisans
 
 Bu proje, orijinal Laravel dokümantasyonu ile aynı lisans koşullarına tabidir. (Lütfen orijinal lisans türünü buraya ekleyin, örn: MIT). Ticari veya ticari olmayan her türlü kullanım ve dağıtıma açıktır.
+
+---
 
 **Not:** Bu dokümantasyon, Laravel'in resmi sitesindeki (https://laravel.com) içeriklerin Türkçe'ye çevrilmiş halidir. Güncellemeler ve en doğru bilgi için lütfen orijinal kaynağı da kontrol ediniz.
