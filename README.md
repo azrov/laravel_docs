@@ -8,13 +8,16 @@ Bu proje, Laravel 12'nin resmi İngilizce dokümantasyonunun (https://laravel.co
 
 Dokümantasyon aşağıdaki ana başlıklar altında toplanmıştır. Bu klasör yapısı, orijinal Laravel dokümantasyonunun mantıksal akışını takip eder.
 
-### Getting Started
-### Architecture Concepts
-### The Basics
-### Digging Deeper
-### Security
-### Database
-### Eloquent ORM
+##### Getting Started
+##### Architecture Concepts
+##### The Basics
+##### Digging Deeper
+##### Security
+##### Database
+##### Eloquent ORM
+##### AI
+##### Testing
+##### Packages
 
 
 ## 🚀 Nasıl Kullanılır?
