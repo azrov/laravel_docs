@@ -17,7 +17,6 @@ Dokümantasyon aşağıdaki ana başlıklar altında toplanmıştır. Bu klasör
 ##### Eloquent ORM
 ##### AI
 ##### Testing
-##### Packages
 
 
 ## 🚀 Nasıl Kullanılır?
