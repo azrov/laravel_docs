@@ -4,16 +4,16 @@ Bu proje, Laravel 12'nin resmi İngilizce dokümantasyonunun (https://laravel.co
 
 Çeviri, anlam bütünlüğünü koruyarak, teknik terimlere sadık kalınarak ve anlaşılır bir dil kullanılarak yapılmıştır. Kod blokları orijinal haliyle bırakılmış, açıklamalar ve başlıklar Türkçeleştirilmiştir.
 
-## 📚 İçindekiler (Mevcut Bölümler)
+## 📚 İçindekiler
 
 Dokümantasyon aşağıdaki ana başlıklar altında toplanmıştır. Bu klasör yapısı, orijinal Laravel dokümantasyonunun mantıksal akışını takip eder.
 
-### Getting Started (Başlarken)
-### rchitecture Concepts (Mimari Kavramlar)
-### The Basics (Temel Bilgiler)
-### Digging Deeper (Derinlemesine İnceleme)
-### Security (Güvenlik)
-### Database (Veritabanı)
+### Getting Started
+### Architecture Concepts
+### The Basics
+### Digging Deeper
+### Security
+### Database
 ### Eloquent ORM
 
 
