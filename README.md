@@ -14,6 +14,7 @@ Dokümantasyon aşağıdaki ana başlıklar altında toplanmıştır. Bu klasör
 ### Digging Deeper (Derinlemesine İnceleme)
 ### Security (Güvenlik)
 ### Database (Veritabanı)
+### Eloquent ORM
 
 
 ## 🚀 Nasıl Kullanılır?
